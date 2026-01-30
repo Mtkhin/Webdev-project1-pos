@@ -17,6 +17,8 @@ Transactions are stored locally so data stays after refresh.
 - Data persistence with localStorage (no backend)
 
 ## Screenshots
+https://ibb.co/Zzv12FLr
+https://ibb.co/HD8626QR
 
 ## Run Locally
 ```bash
